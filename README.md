@@ -61,4 +61,8 @@ To train a new model, you should modify the training settings before training.
 
 ### License
 This code is only for academic purpose.
-
+### 李剑参考资料：
+```
+https://www.cnblogs.com/lillylin/p/8495124.html
+```
+【论文翻译2018】角定位Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation
